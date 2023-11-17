@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi, I'm Artur 👋 👨‍🦱🧑‍💻
+<img src="https://github.com/Artur2000LP/Artur2000LP/assets/113075481/b2f5a018-7d0b-4ec1-aebe-7292a2ea66fb"  style=" display: felx;  flex: right">
+
+## about me in code;
+```JS
+const Artur = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Java, C++ ],
+  tools: [React, Node]
+}
+```
+## you can find me 🌎:
+   - [blog](https://github.com/Artur2000LP)
+   - [facebook](https://web.facebook.com/ruhiartur.ltnaprras/?locale=es_LA)
+
 
 <!--
 **Artur2000LP/Artur2000LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
