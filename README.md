@@ -11,7 +11,7 @@ const Artur = {
 ```
 ## you can find me 🌎:
    - [blog](https://github.com/Artur2000LP)
-   - [facebook](https://web.facebook.com/ruhiartur.ltnaprras/?locale=es_LA)
+   - [facebook](https://www.facebook.com/ruhiartur.ltnaprras?mibextid=ZbWKwL)
 
 
 <!--
