@@ -12,7 +12,7 @@ const Artur = {
 ```
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=36BCF7&center=false&vCenter=false&width=600&height=180&lines=//+C%2B%2B+Geometry+by+Artur%0Afloat+p(float+a,+float+b)+{%0A++return+sqrt(a*a+%2B+b*b);%0A};---;//+Java+Circle+by+Artur%0Apublic+double+area(double+r)+{%0A++return+3.14+*+r+*+r;%0A};---;//+JS+Spheres+by+Artur%0Aconst+vol+=+(r)+=>+{%0A++return+4/3+*+Math.PI+*+r**3;%0A}" alt="Artur Live Coding" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=36BCF7&center=false&vCenter=false&width=600&height=160&lines=//+C%2B%2B+Geometry+by+Artur%0Afloat+p(float+a,+float+b)+{%0A++return+sqrt(a*a+%2B+b*b);%0A};---;//+Java+Circle+by+Artur%0Apublic+double+area(double+r)+{%0A++return+3.14+*+r+*+r;%0A};---;//+JS+Spheres+by+Artur%0Aconst+vol+=+(r)+=>+{%0A++return+4/3+*+Math.PI+*+r**3;%0A}" alt="Artur Live Coding" />
   </a>
 </p>
 
