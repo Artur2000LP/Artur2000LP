@@ -1,11 +1,6 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 <img src="https://github.com/Artur2000LP/Artur2000LP/assets/113075481/b2f5a018-7d0b-4ec1-aebe-7292a2ea66fb"  style=" display: felx;  flex: right">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F2FF&background=141414&center=true&vCenter=true&width=700&height=180&multiline=true&lines=//+JS+Geometry+by+Artur;const+area+=+(r)+=>+Math.PI+*+r+*+r;;---;/*+Java+Logic+by+Artur+*/;public+double+area(double+r)+{;+return+3.1416+*+r+*+r+;};---;//+C%2B%2B+by+Artur;float+circle(float+r)+{;+return+3.14+*+r+*+r+;}" alt="Artur's Live Coding" />
-  </a>
-</p>
 
 ## about me in code;
 ```JS
@@ -15,7 +10,11 @@ const Artur = {
   tools: [React, Laravel, Angular, Node, nex.js ]
 }
 ```
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A9FE00&background=1A1A1A&center=false&vCenter=false&width=600&height=220&multiline=true&lines=//+Step+1:+JavaScript+Geometry;const+dev+%3D+%22Artur%22%3B;function+getCircleArea(r+{;++console.log(%60Hi,+I+am+%24%7Bdev%7D%60)%3B;++return+Math.PI++Math.pow(r,+2)%3B;};---;//+Step+2:+Java+Implementation;String+author+%3D+%22Artur%22%3B;public+void+printGeometry(double+r)+{;++System.out.println(%22Hello+from+%22+%2B+author)%3B;++double+area+%3D+3.14++r++r%3B;};---;//+Step+3:+C%2B%2B+Logic;string+user+%3D+%22Artur%22%3B;float+calc(float+r)+{;++cout+%3C%3C+%22Artur+Code+Active%22%3B;++return+3.1416++r+*+r%3B;}" alt="Artur Coding Realtime" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&height=220&multiline=true&lines=//+Step+1:+C%2B%2B+Geometry+by+Artur;float+pitagoras(float+a,+float+b)+{;+return+sqrt(a*a+%2B+b*b);;};---;//+Step+2:+Java+Circle+Logic;public+void+arturArea(double+r)+{;+double+res+%3D+Math.PI+*+Math.pow(r,+2);;+System.out.print(res);;};---;//+Step+3:+JS+Modern+Spheres;const+arturVol+=+(r)+%3D%3E+{;+return+(4/3)+*+Math.PI+*+Math.pow(r,+3);;};" alt="Artur Live Coding" />
+  </a>
+</p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
