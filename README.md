@@ -12,7 +12,7 @@ const Artur = {
 ```
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=5000&color=36BCF7&center=false&vCenter=false&width=500&height=150&lines=const+hello$+=+new+Observable(sub+=>+{%0A++sub.next('¡Hola!+Bienvenido');%0A+});%0Ahello$.subscribe(v+=>+console.log(v));" alt="Observable JS Block" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=10000&color=36BCF7&center=false&vCenter=false&width=500&height=180&lines=const+hello$+=+new+Observable(sub+=>+{%0D%0A++sub.next('¡Hola!+Bienvenido');%0D%0A+});%0D%0Ahello$.subscribe(v+=>+console.log(v));" alt="Observable JS Block" />
   </a>
 </p>
 <!--h1 without bottom border-->
