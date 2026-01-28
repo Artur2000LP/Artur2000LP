@@ -1,6 +1,12 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 <img src="https://github.com/Artur2000LP/Artur2000LP/assets/113075481/b2f5a018-7d0b-4ec1-aebe-7292a2ea66fb"  style=" display: felx;  flex: right">
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F2FF&background=141414&center=true&vCenter=true&width=700&height=180&multiline=true&lines=//+JS+Geometry+by+Artur;const+area+=+(r)+=>+Math.PI+*+r+*+r;;---;/*+Java+Logic+by+Artur+*/;public+double+area(double+r)+{;+return+3.1416+*+r+*+r+;};---;//+C%2B%2B+by+Artur;float+circle(float+r)+{;+return+3.14+*+r+*+r+;}" alt="Artur's Live Coding" />
+  </a>
+</p>
+
 ## about me in code;
 ```JS
 const Artur = {
