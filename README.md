@@ -12,7 +12,7 @@ const Artur = {
 ```
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&height=150&multiline=true&lines=//+Step+1:+C%2B%2B+Geometry+by+Artur;float+pitagoras(float+a,+float+b)+{+return+sqrt(a*a+%2B+b*b);+};---;//+Step+2:+Java+Circle+Logic;public+void+arturArea(double+r)+{+double+a+%3D+3.14*r*r;+};---;//+Step+3:+JS+Modern+Spheres;const+arturVol+=+(r)+%3D%3E+(4/3)+*+Math.PI+*+r**3;" alt="Artur Live Coding" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=//+C%2B%2B+by+Artur:+float+p(a,b){return+sqrt(a*a%2Bb*b);};/*+Java+by+Artur:+public+void+a(r){double+res%3D3.14*r*r;};*/;//+JS+by+Artur:+const+vol+=+r+=>+(4/3)*Math.PI*(r**3);" alt="Artur Live Coding" />
   </a>
 </p>
 
