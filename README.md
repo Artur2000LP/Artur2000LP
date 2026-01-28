@@ -9,11 +9,11 @@ const Artur = {
   tools: [React, Laravel, Angular, Node, nex.js ]
 }
 ```
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A9FE00&background=1A1A1A&center=false&vCenter=false&width=600&height=220&multiline=true&lines=//+Step+1:+JavaScript+Geometry;const+dev+%3D+%22Artur%22%3B;function+getCircleArea(r+{;++console.log(%60Hi,+I+am+%24%7Bdev%7D%60)%3B;++return+Math.PI++Math.pow(r,+2)%3B;};---;//+Step+2:+Java+Implementation;String+author+%3D+%22Artur%22%3B;public+void+printGeometry(double+r)+{;++System.out.println(%22Hello+from+%22+%2B+author)%3B;++double+area+%3D+3.14++r++r%3B;};---;//+Step+3:+C%2B%2B+Logic;string+user+%3D+%22Artur%22%3B;float+calc(float+r)+{;++cout+%3C%3C+%22Artur+Code+Active%22%3B;++return+3.1416++r+*+r%3B;}" alt="Artur Coding Realtime" /> </p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know </h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
