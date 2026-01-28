@@ -11,11 +11,10 @@ const Artur = {
 }
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=false&width=500&height=150&lines=const+hello$+=+new+Observable(sub+=>+{%0A++;;sub.next('¡Hola!+Bienvenido');%0A+;});;hello$.subscribe(v+=>+console.log(v));" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=20&center=true&vCenter=true&width=600&height=150&lines=const+hello$+=+new+Observable(sub+=>+{%20%20;%20%20sub.next('¡Hola!+Bienvenido');%20%20;});;hello$.subscribe(v+=>+console.log(v));">
   </a>
 </p>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
