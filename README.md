@@ -12,10 +12,9 @@ const Artur = {
 ```
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&height=200&lines=//+Observable+Greeting+Function;const+greet$+=+new+Observable(subs+=>+{%+;++subs.next('¡Hola,+bienvenido+a+mi+perfil!');+;});;greet$.subscribe(msg+=>+console.log(msg));" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=36BCF7&center=true&vCenter=true&width=650&height=180&lines=//+Basic+Observable+Greeting;const+hello$+=+new+Observable(subscriber+=>+{%0A++subscriber.next('¡Hola!+Bienvenido+a+mi+perfil');%0A});;hello$.subscribe(val+=>+console.log(val));" alt="Observable JS Greeting" />
   </a>
 </p>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
