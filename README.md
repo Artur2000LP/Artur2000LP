@@ -1,4 +1,4 @@
-# Hi, I'm Artur 👋 👨‍🦱🧑‍💻
+![present](https://github.com/user-attachments/assets/1f7e50ce-abfc-4322-9d00-01149aa46e1b)# Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 <img src="https://github.com/Artur2000LP/Artur2000LP/assets/113075481/b2f5a018-7d0b-4ec1-aebe-7292a2ea66fb"  style=" display: felx;  flex: right">
 
 
@@ -9,8 +9,7 @@ const Artur = {
   code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
   tools: [React, Laravel, Angular, Node, nex.js ]
 }
-```
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+```!<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;display=swap');
     text { font-family: 'Fira Code', monospace; font-size: 14px; white-space: pre; }
@@ -108,7 +107,9 @@ const Artur = {
     window.onload = play;
     ]]>
   </script>
-</svg>
+</svg>[Uploading present.svg…]()
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
