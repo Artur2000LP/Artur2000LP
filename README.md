@@ -10,7 +10,7 @@ const Artur = {
   tools: [React, Laravel, Angular, Node, nex.js ]
 }
 ```
-![Presentacion Artur](presentacion.svg)
+![Presentacion Artur](https://raw.githubusercontent.com/Artur2000LP/Artur2000LP/main/presentacion.svg)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
