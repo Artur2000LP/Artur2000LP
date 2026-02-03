@@ -1,4 +1,4 @@
-![present](https://github.com/user-attachments/assets/7663f0b2-9df9-442d-92fe-543e9a07ccde)# Hi, I'm Artur 👋 👨‍🦱🧑‍💻
+# Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 
 
 
@@ -11,7 +11,12 @@ const Artur = {
 }
 ```
 
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know </h2></summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
