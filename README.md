@@ -11,106 +11,65 @@ const Artur = {
 }
 ```
 
-![<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;display=swap');
-    text { font-family: 'Fira Code', monospace; font-size: 14px; white-space: pre; }
-    
-    /* Colores para fondo transparente (ajustados para que resalten) */
-    .k { fill: #c586c0; } /* keyword (púrpura) */
-    .v { fill: #9cdcfe; } /* variable (azul claro) */
-    .s { fill: #ce9178; } /* string (naranja/café) */
-    .f { fill: #dcdcaa; } /* function (amarillo) */
-    .o { fill: #d4d4d4; } /* operator (gris claro) */
-    .c { fill: #6a9955; } /* comment (verde) */
-    .r { fill: #4af626; font-weight: bold; } /* result (verde neón) */
+    @keyframes typing { from { width: 0 } to { width: 100% } }
+    @keyframes blink { 50% { opacity: 0 } }
+    @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+
+    text { 
+      font-family: 'Segoe UI', Ubuntu, sans-serif; 
+      font-size: 14px; 
+      fill: #d4d4d4;
+    }
+    .k { fill: #c586c0; } /* keyword */
+    .f { fill: #dcdcaa; } /* function */
+    .s { fill: #ce9178; } /* string */
+    .o { fill: #d4d4d4; } /* operator */
+    .r { fill: #4af626; font-weight: bold; } /* result */
+
+    /* Control de aparición por líneas */
+    .line { opacity: 0; animation: fadeIn 0.3s forwards; }
+    .l1 { animation-delay: 0.5s; }
+    .l2 { animation-delay: 1.5s; }
+    .l3 { animation-delay: 2.5s; }
+    .l4 { animation-delay: 3.5s; }
+    .res { animation-delay: 5s; }
+
+    .cursor { 
+      fill: #4af626; 
+      animation: blink 0.8s infinite; 
+    }
   </style>
 
-  <rect width="100%" height="35" rx="12" fill="#333" />
+  <rect width="800" height="450" rx="10" fill="#1e1e1e" />
+  <rect width="800" height="35" rx="10" fill="#333" />
   <circle cx="20" cy="17" r="6" fill="#ff5f56" />
   <circle cx="40" cy="17" r="6" fill="#ffbd2e" />
   <circle cx="60" cy="17" r="6" fill="#27c93f" />
 
-  <g id="codeDisplay" transform="translate(25, 75)"></g>
-  <g id="consoleDisplay" transform="translate(25, 480)"></g>
+  <g transform="translate(25, 70)">
+    <g class="line l1">
+      <text><tspan class="k">const</tspan> { from } = <tspan class="f">require</tspan>(<tspan class="s">'rxjs'</tspan>);</text>
+    </g>
+    <g class="line l2" transform="translate(0, 25)">
+      <text><tspan class="k">const</tspan> users$ = <tspan class="f">from</tspan>([{user: <tspan class="s">'Artur'</tspan>}]);</text>
+    </g>
+    <g class="line l3" transform="translate(0, 50)">
+      <text>users$.<tspan class="f">subscribe</tspan>(msg => <tspan class="f">console.log</tspan>(msg));</text>
+    </g>
 
-  <rect id="cursor" x="25" y="55" width="8" height="18" fill="#4af626">
-    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" />
-  </rect>
-
-  <script type="text/javascript">
-    <![CDATA[
-    const code = [
-      [{t: "const", c: "k"}, {t: " { from } = ", c: "o"}, {t: "require", c: "f"}, {t: "('rxjs');", c: "s"}],
-      [{t: "const", c: "k"}, {t: " { map } = ", c: "o"}, {t: "require", c: "f"}, {t: "('rxjs/operators');", c: "s"}],
-      [],
-      [{t: "const", c: "k"}, {t: " users$ = ", c: "o"}, {t: "from", c: "f"}, {t: "([", c: "o"}],
-      [{t: "  { user: ", c: "o"}, {t: "'Artur'", c: "s"}, {t: ", role: ", c: "o"}, {t: "'Admin'", c: "s"}, {t: " },", c: "o"}],
-      [{t: "  { user: ", c: "o"}, {t: "'Usuario'", c: "s"}, {t: ", role: ", c: "o"}, {t: "'Visitante'", c: "s"}, {t: " }", c: "o"}],
-      [{t: "]);", c: "o"}],
-      [],
-      [{t: "users$", c: "v"}, {t: ".", c: "o"}, {t: "pipe", c: "f"}, {t: "(", c: "o"}],
-      [{t: "  ", c: "o"}, {t: "map", c: "f"}, {t: "(u => {", c: "o"}],
-      [{t: "    ", c: "o"}, {t: "if", c: "k"}, {t: " (u.role === ", c: "o"}, {t: "'Admin'", c: "s"}, {t: ") {", c: "o"}],
-      [{t: "      ", c: "o"}, {t: "return", c: "k"}, {t: " `¡Hola ${u.user}! Estás en modo edición.`;", c: "s"}],
-      [{t: "    } ", c: "o"}, {t: "else", c: "k"}, {t: " {", c: "o"}],
-      [{t: "      ", c: "o"}, {t: "return", c: "k"}, {t: " `Bienvenido a mi perfil profesional. Soy Artur...`;", c: "s"}],
-      [{t: "    }", c: "o"}],
-      [{t: "  })", c: "o"}],
-      [{t: ").", c: "o"}, {t: "subscribe", c: "f"}, {t: "(msg => ", c: "o"}, {t: "console", c: "v"}, {t: ".", c: "o"}, {t: "log", c: "f"}, {t: "(msg));", c: "o"}]
-    ];
-
-    const output = [
-      {t: "// --- RESULTADO EN CONSOLA ---", c: "c"},
-      {t: "¡Hola Artur! Estás viendo tu perfil en modo edición.", c: "r"},
-      {t: "Bienvenido a mi perfil profesional. Soy Artur, es un gusto tenerte aquí.", c: "r"}
-    ];
-
-    const cursor = document.getElementById('cursor');
-
-    async function play() {
-      const codeG = document.getElementById('codeDisplay');
-      const consoleG = document.getElementById('consoleDisplay');
-      
-      for (let i = 0; i < code.length; i++) {
-        const line = document.createElementNS("http://www.w3.org/2000/svg", "text");
-        line.setAttribute("y", i * 22);
-        codeG.appendChild(line);
-        
-        for (const part of code[i]) {
-          const span = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
-          span.classList.add(part.c);
-          line.appendChild(span);
-          for (const char of part.t) {
-            span.textContent += char;
-            const box = line.getBBox();
-            cursor.setAttribute("x", 25 + box.width + 2);
-            cursor.setAttribute("y", 75 + (i * 22) - 15);
-            await new Promise(r => setTimeout(r, 12));
-          }
-        }
-      }
-
-      await new Promise(r => setTimeout(r, 800));
-      for (let i = 0; i < output.length; i++) {
-        const line = document.createElementNS("http://www.w3.org/2000/svg", "text");
-        line.setAttribute("y", i * 25);
-        line.classList.add(output[i].c);
-        consoleG.appendChild(line);
-        for (const char of output[i].t) {
-          line.textContent += char;
-          const box = line.getBBox();
-          cursor.setAttribute("x", 25 + box.width + 2);
-          cursor.setAttribute("y", 480 + (i * 25) - 15);
-          await new Promise(r => setTimeout(r, 20));
-        }
-      }
-    }
-    window.onload = play;
-    ]]>
-  </script>
-</svg>Uploading present.svg…]()
-
+    <g class="line res" transform="translate(0, 100)">
+      <text fill="#6a9955">// --- OUTPUT ---</text>
+      <text transform="translate(0, 25)" class="r">¡Hola Artur! Bienvenido a mi perfil.</text>
+    </g>
+    
+    <rect class="cursor" x="0" y="110" width="8" height="18">
+        <animateMotion dur="6s" repeatCount="indefinite"
+          path="M0,0 L250,0 M0,25 L250,25 M0,50 L250,50 M0,125 L300,125" />
+    </rect>
+  </g>
+</svg>
 
 
 <!--h1 without bottom border-->
