@@ -11,43 +11,53 @@ const Artur = {
 }
 ```
 
-<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-    @keyframes type { from { width: 0; } to { width: 100%; } }
+    text { font-family: monospace; font-size: 14px; white-space: pre; opacity: 0; }
     
-    text { font-family: 'Fira Code', monospace; font-size: 14px; fill: #d4d4d4; }
-    .k { fill: #c586c0; } .f { fill: #dcdcaa; } .s { fill: #ce9178; } .r { fill: #4af626; }
-    
-    /* Animación de líneas */
-    .l1 { animation: fadeIn 0.5s ease forwards; animation-delay: 0.2s; opacity: 0; }
-    .l2 { animation: fadeIn 0.5s ease forwards; animation-delay: 1.2s; opacity: 0; }
-    .l3 { animation: fadeIn 0.5s ease forwards; animation-delay: 2.2s; opacity: 0; }
-    .out { animation: fadeIn 0.5s ease forwards; animation-delay: 3.5s; opacity: 0; }
+    .k { fill: #c586c0; } .v { fill: #9cdcfe; } .s { fill: #ce9178; } 
+    .f { fill: #dcdcaa; } .o { fill: #d4d4d4; } .c { fill: #6a9955; } 
+    .r { fill: #4af626; font-weight: bold; }
+
+    /* Animación de aparición */
+    @keyframes fadeIn { to { opacity: 1; } }
+    .l { animation: fadeIn 0.1s forwards; }
+
+    /* Cursor */
+    @keyframes blink { 50% { opacity: 0; } }
+    .cursor { fill: #4af626; animation: blink 1s infinite; }
   </style>
 
-  <rect width="100%" height="100%" rx="10" fill="#1e1e1e" />
-  <rect width="100%" height="35" rx="10" fill="#333" />
+  <rect width="100%" height="35" rx="12" fill="#333" />
   <circle cx="20" cy="17" r="6" fill="#ff5f56" />
   <circle cx="40" cy="17" r="6" fill="#ffbd2e" />
   <circle cx="60" cy="17" r="6" fill="#27c93f" />
 
   <g transform="translate(25, 75)">
-    <g class="l1">
-      <text><tspan class="k">const</tspan> { from } = <tspan class="f">require</tspan>(<tspan class="s">'rxjs'</tspan>);</text>
-    </g>
-    <g class="l2" transform="translate(0, 25)">
-      <text><tspan class="k">const</tspan> users$ = <tspan class="f">from</tspan>([{user: <tspan class="s">'Artur'</tspan>}]);</text>
-    </g>
-    <g class="l3" transform="translate(0, 50)">
-      <text>users$.<tspan class="f">subscribe</tspan>(msg => <tspan class="f">console.log</tspan>(msg));</text>
-    </g>
-    <g class="out" transform="translate(0, 100)">
-      <text fill="#6a9955">// --- CONSOLE OUTPUT ---</text>
-      <text transform="translate(0, 25)" class="r">¡Hola Artur! Estás en modo edición.</text>
+    <text x="0" y="0" class="l" style="animation-delay: 0.2s;"><tspan class="k">const</tspan> { from } = <tspan class="f">require</tspan>(<tspan class="s">'rxjs'</tspan>);</text>
+    <text x="0" y="22" class="l" style="animation-delay: 0.4s;"><tspan class="k">const</tspan> { map } = <tspan class="f">require</tspan>(<tspan class="s">'rxjs/operators'</tspan>);</text>
+    
+    <text x="0" y="66" class="l" style="animation-delay: 0.6s;"><tspan class="k">const</tspan> users$ = <tspan class="f">from</tspan>([</text>
+    <text x="0" y="88" class="l" style="animation-delay: 0.8s;">  { user: <tspan class="s">'Artur'</tspan>, role: <tspan class="s">'Admin'</tspan> },</text>
+    <text x="0" y="110" class="l" style="animation-delay: 1.0s;">]);</text>
+
+    <text x="0" y="154" class="l" style="animation-delay: 1.2s;"><tspan class="v">users$</tspan>.<tspan class="f">pipe</tspan>(</text>
+    <text x="0" y="176" class="l" style="animation-delay: 1.4s;">  <tspan class="f">map</tspan>(u => {</text>
+    <text x="0" y="198" class="l" style="animation-delay: 1.6s;">    <tspan class="k">if</tspan> (u.role === <tspan class="s">'Admin'</tspan>) {</text>
+    <text x="0" y="220" class="l" style="animation-delay: 1.8s;">      <tspan class="k">return</tspan> <tspan class="s">`¡Hola ${u.user}! Estás en modo edición.`</tspan>;</text>
+    <text x="0" y="242" class="l" style="animation-delay: 2.0s;">    }</text>
+    <text x="0" y="264" class="l" style="animation-delay: 2.2s;">  })</text>
+    <text x="0" y="286" class="l" style="animation-delay: 2.4s;">).<tspan class="f">subscribe</tspan>(msg => <tspan class="v">console</tspan>.<tspan class="f">log</tspan>(msg));</text>
+
+    <g transform="translate(0, 350)">
+      <text x="0" y="0" class="l" style="animation-delay: 3.0s;" class="c">// --- RESULTADO EN CONSOLA ---</text>
+      <text x="0" y="25" class="l" style="animation-delay: 3.5s;" class="r">¡Hola Artur! Estás viendo tu perfil en modo edición.</text>
     </g>
   </g>
+
+  <rect class="cursor" x="25" y="440" width="8" height="18" />
 </svg>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
