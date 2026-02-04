@@ -1,4 +1,5 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
+![Diseño sin título](https://github.com/user-attachments/assets/56f2818b-e93e-4f71-b9d6-b7240169c5a2)
 
 
 
