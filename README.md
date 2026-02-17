@@ -1,8 +1,10 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 
 
-
-https://github.com/user-attachments/assets/40a58ed6-9155-4f10-a463-40526973f7f8
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/40a58ed6-9155-4f10-a463-40526973f7f8" autoplay loop muted playsinline width="600">
+  </video>
+</p>
 
 
 
