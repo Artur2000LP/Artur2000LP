@@ -6,6 +6,8 @@
   </video>
 </p>
 
+![ezgif-5812bce702229ff5](https://github.com/user-attachments/assets/b727adbf-224a-4057-bf5e-aa4585c1eab5)
+
 
 
 ## about me in code;
