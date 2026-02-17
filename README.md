@@ -1,6 +1,6 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 
-![yo](https://github.com/user-attachments/assets/db589624-9adb-41e4-a22d-53cab6047b0c)
+![mi_animacion](https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a)
 
 ## about me in code;
 ```JS
