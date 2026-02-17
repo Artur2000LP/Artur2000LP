@@ -1,14 +1,6 @@
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/40a58ed6-9155-4f10-a463-40526973f7f8" autoplay loop muted playsinline width="600">
-  </video>
-</p>
-
-![ezgif-5812bce702229ff5](https://github.com/user-attachments/assets/b727adbf-224a-4057-bf5e-aa4585c1eab5)
-
-
+![yo](https://github.com/user-attachments/assets/db589624-9adb-41e4-a22d-53cab6047b0c)
 
 ## about me in code;
 ```JS
