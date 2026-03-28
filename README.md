@@ -24,8 +24,6 @@ const Artur = {
   </a>
 </p>
 
-<img width="1155" height="700" alt="Captura de pantalla 2025-11-08 103948" src="https://github.com/user-attachments/assets/cc34981e-e40f-4a31-8c0e-70a69d3bf9b5" />
-
 
 
 ## you can find me 🌎:
