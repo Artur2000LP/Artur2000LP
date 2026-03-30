@@ -7,28 +7,17 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
 ![mi_animacion](https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a)
+## about me in code;
+```JS
+const Artur = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
+  tools: [React, Laravel, Angular, Node, nex.js ]
+}
+```
 ---
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode,mysql" />
-</p>
-
 ---
-
-## 📊 Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Daniel100ml&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel100ml&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 Activity Graph
 
 <p align="center">
@@ -44,33 +33,6 @@
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-Artur-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-
-# Hi, I'm Artur 👋 👨‍🦱🧑‍💻
-
-
-
-## about me in code;
-```JS
-const Artur = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
-  tools: [React, Laravel, Angular, Node, nex.js ]
-}
-```
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -85,14 +47,17 @@ const Artur = {
 </p>
 
 
+## 📫 Contact
 
-## you can find me 🌎:
-   - [blog](https://github.com/Artur2000LP)
-   - [facebook](https://www.facebook.com/ruhiartur.ltnaprras?mibextid=ZbWKwL)
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-Artur-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
+  - [blog](https://github.com/Artur2000LP)
+  - [facebook](https://www.facebook.com/ruhiartur.ltnaprras?mibextid=ZbWKwL)
 
-<!--
-**Artur2000LP/Artur2000LP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-mi svg en github a fallado porque ? 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
