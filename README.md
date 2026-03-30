@@ -36,14 +36,13 @@ const Artur = {
 ---
 
 <div align="center">
-  <h2> 🚀  Projects </h2>
+  <h2> Projects </h2>
   <img src="https://github.com/user-attachments/assets/26be8be1-2bcd-4fd0-a13a-e62e7c7a5f08" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
   
-  <br><br>
-
-  <a href="https://cursencia.com">
-    <img src="https://img.shields.io/badge/VISITA_MIS_PROYECTOS_AQUÍ-Cursencia.com-FF5733?style=for-the-badge&logo=rocket&logoColor=white" height="40" />
+  <a href="https://artur2000lp.github.io/Soy_Artur">
+    <img src="https://img.shields.io/badge/EXPLORA_MIS_PROYECTOS-Soy_Artur-00F7FF?style=for-the-badge&logo=rocket&logoColor=black" height="45" />
   </a>
+  <p><i>Haz clic en el botón para ver mis desarrollos en detalle</i></p>
 </div>
 
 ---
@@ -62,7 +61,7 @@ const Artur = {
 </p>
 
 ---
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:soyarturlp@gmail.com">
