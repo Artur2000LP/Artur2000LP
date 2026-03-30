@@ -9,11 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🚀 Tech & Data  
-- 📊 Learning ML  
-- ⚡ Building projects  
-
+![mi_animacion](https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a)
 ---
 
 ## ⚙️ Tech Stack
@@ -64,7 +60,7 @@
 
 # Hi, I'm Artur 👋 👨‍🦱🧑‍💻
 
-![mi_animacion](https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a)
+
 
 ## about me in code;
 ```JS
