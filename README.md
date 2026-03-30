@@ -40,6 +40,21 @@ const Artur = {
 - 🔹 Stay tuned ⚡
 
 ---
+---
+
+<div align="center">
+  <h2> 🚀 PROYECTOS </h2>
+
+  <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
+
+  <br><br>
+
+  <a href="https://cursencia.com">
+    <img src="https://img.shields.io/badge/VISITA_MIS_PROYECTOS_AQUÍ-Cursencia.com-FF5733?style=for-the-badge&logo=rocket&logoColor=white" height="40" />
+  </a>
+</div>
+
+---
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -68,8 +83,6 @@ const Artur = {
     <img src="https://img.shields.io/badge/Facebook-Artur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
