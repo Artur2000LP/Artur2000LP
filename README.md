@@ -34,19 +34,11 @@ const Artur = {
 </table>
 
 ---
-## 🚀 Projects
-
-- 🔹 Coming soon...
-- 🔹 Stay tuned ⚡
-
----
----
 
 <div align="center">
-  <h2> 🚀 PROYECTOS </h2>
-
-  <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
-
+  <h2> 🚀  Projects </h2>
+  <img src="https://github.com/user-attachments/assets/26be8be1-2bcd-4fd0-a13a-e62e7c7a5f08" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
+  
   <br><br>
 
   <a href="https://cursencia.com">
