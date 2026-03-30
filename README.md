@@ -7,16 +7,21 @@
 </p>
 
 ---
-![mi_animacion](https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a)
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+
 ## about me in code;
-```JS
+```js
 const Artur = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
-  tools: [React, Laravel, Angular, Node, nex.js ]
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
+  tools: [React, Laravel, Angular, Node, nex.js ]
 }
 ```
----
 ---
 ## 🔥 Activity Graph
 
@@ -24,8 +29,11 @@ const Artur = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel100ml&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+</td>
+</tr>
+</table>
 
+---
 ## 🚀 Projects
 
 - 🔹 Coming soon...
