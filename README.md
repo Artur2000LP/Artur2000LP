@@ -18,7 +18,7 @@
 ```js
 const Artur = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++ ],
+  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++, python ],
   tools: [React, Laravel, Angular, Node, next.js ]
 }
 ```
