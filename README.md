@@ -23,12 +23,14 @@ const Artur = {
 }
 ```
 ---
-## 🔥 Activity Graph
+## Activity Progress
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel100ml&theme=tokyo-night&hide_border=true"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
+</p>
 </td>
 </tr>
 </table>
