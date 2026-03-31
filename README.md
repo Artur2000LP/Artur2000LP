@@ -26,11 +26,12 @@ const Artur = {
 ## Activity Progress
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel100ml&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&theme=tokyonight&area=true&hide_border=true&title=Christian%20Daniel's%20Contribution%20Graph&color=38bdf8&line=38bdf8&point=38bdf8&bg_color=0d1117" width="800">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 </p>
+
 </td>
 </tr>
 </table>
