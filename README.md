@@ -42,7 +42,8 @@ const Artur = {
   <a href="https://artur2000lp.github.io/Soy_Artur"  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EXPLORA_MIS_PROYECTOS-Soy_Artur-00F7FF?style=for-the-badge&logo=rocket&logoColor=black" height="45" />
   </a>
-  <p><i>Haz clic en el botón para ver mis desarrollos en detalle</i></p>
+  <br>
+  <sub><i> Tip: Usa <b>Ctrl + Click</b> para ver mis desarrollos en detalle y abrir en una nueva pestaña.</i></u>
 </div>
 
 ---
@@ -73,6 +74,8 @@ const Artur = {
   <a href="https://www.facebook.com/ruhiartur.ltnaprras?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-Artur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <br>
+  <sub><i> Tip: Usa <b>Ctrl + Click</b> para abrir los enlaces en una nueva pestaña.</i></u>
 </p>
 
 <p align="center">
