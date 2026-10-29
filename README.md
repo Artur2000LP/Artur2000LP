@@ -19,13 +19,20 @@
       
 ```js
 const SoftwareArchitect = {
+  domainModeling: [
+    "Domain-Driven Design (DDD)"
+  ],
   deploymentArchitecture: [
     "Monolito",
     "Arquitectura de Tres Niveles (3-Tier)",
     "Microservicios",
     "Micro frontends"
   ],
-
+  logicalArchitecture: [
+    "Arquitectura Hexagonal",
+    "Arquitectura por Capas",
+    "Clean Architecture"
+  ],
 };
 ```
    </td>
@@ -35,8 +42,18 @@ const SoftwareArchitect = {
 ```js
 const Artur = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, PHP, HTML, CSS, Java, C++, Python ],
-  tools: [React, Laravel, Angular, Node, Next.js ]
+  code: [ "Javascript", "Typescript", "PHP",
+    "HTML", "CSS", "Java", "C++", "Python" ],
+  stack: {
+    frontend : [ "React", "Angular","Next.js",
+                "Vue.js", "Astro"],
+    backend :  [ "Node.js (Express / NestJS)", 
+               "Laravel"],
+    databases : [ "PostgreSQL", "MySQL", 
+                "Redis", "Elasticsearch",
+                "Supabase", "Firebase" ],
+    tools: [ "RabbitMQ",  "Docker" ]
+  }
 }
 ```
 ---
