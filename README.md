@@ -12,10 +12,31 @@
 ---
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="100%" />
-    </td>
     <td width="50%" valign="top" style="border: none;">
+      <p align="center" >
+        <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="80%" height="80%" />
+      </p>
+      
+```js
+const SoftwareArchitect = {
+  domainModeling: [
+    "Domain-Driven Design (DDD)"
+  ],
+  deploymentArchitecture: [
+    "Monolito",
+    "Arquitectura de Tres Niveles (3-Tier)",
+    "Microservicios",
+    "Micro frontends"
+  ],
+  logicalArchitecture: [
+    "Arquitectura Hexagonal",
+    "Arquitectura por Capas",
+    "Clean Architecture"
+  ],
+};
+```
+   </td>
+  <td width="50%" valign="top" style="border: none;">
 
 ## about me in code;
 ```js
@@ -29,7 +50,9 @@ const Artur = {
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&theme=tokyonight&area=true&hide_border=true&color=38bdf8&line=38bdf8&point=38bdf8&bg_color=0d1117&custom_title=Artur%20Activity%20Progress" width="800">
 </p> -->
-<img width="400" height="200" alt="Gemini_Generated_Image_r78675r78675r786" src="https://github.com/user-attachments/assets/f2d6dc26-4fc5-46ea-8d67-8fec7f8dee90" />
+<p align="center">
+  <img width="450" height="300" alt="Gemini_Generated_Image_r78675r78675r786" src="https://github.com/user-attachments/assets/f2d6dc26-4fc5-46ea-8d67-8fec7f8dee90" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 </p>
